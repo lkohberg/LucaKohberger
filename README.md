@@ -21,17 +21,19 @@
 ```java
 public class Luca {
     private final String location = "Austria";
-    private final String[] focus  = {"Web Development", "Privacy", "Developer Tooling"};
-    private final String currentProject = "Right2Privacy";
+    private final String status   = "Student";
+    private final String[] focus  = {"Web Development", "Java Development", "Cybersecurity"};
+    private final String[] currentProjects = {"Right2Privacy", "Celebra"};
 
-    public boolean openToCollaboration() {
-        return true; // interesting projects welcome
+    public boolean openToWork() {
+        return true; // remote internships, working student & junior roles
     }
 }
 ```
 
-- <img src="https://api.iconify.design/lucide:hammer.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Currently building:** [Right2Privacy](https://github.com/lkohberg/Right2Privacy) – *A tool designed to take away consumers' fear of lacking privacy*
-- <img src="https://api.iconify.design/lucide:handshake.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Available for**: developer positions, freelance projects, and open-source collaboration
+- <img src="https://api.iconify.design/lucide:hammer.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Currently building:** [Right2Privacy](www.right2privacy.at), a tool designed to take away consumers' fear of lacking privacy, and [Celebra](www.celebra.at), Digital invitations Made Easy.
+- <img src="https://api.iconify.design/lucide:briefcase.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Open to work:** remote internships, working student positions, and junior developer roles
+- <img src="https://api.iconify.design/lucide:handshake.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Open to collaborate:** web products and open-source projects
 - <img src="https://api.iconify.design/lucide:mail.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Reach me:** [lucadev.at](https://www.lucadev.at)
 
 ---
