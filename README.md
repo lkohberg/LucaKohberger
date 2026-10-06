@@ -35,7 +35,7 @@ public class Luca {
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,asm" alt="Languages">
 </p>
 
 **Frameworks & Libraries**
