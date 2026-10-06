@@ -66,7 +66,8 @@ public class Luca {
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=lkohberg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkohberg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkohberg&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=lkohberg/stackoverflowed" alt="Top languages">
+  
 </p>
 
 ---
