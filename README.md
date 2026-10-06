@@ -50,14 +50,14 @@ public class Luca {
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="Frameworks">
+  <img src="https://skillicons.dev/icons?i=react,symfony" alt="Frameworks">
   <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC">
 </p>
 
 **Tools & Infrastructure**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,idea,postgres" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,kali,windows,idea,postgres" alt="Tools">
 </p>
 
 ---
