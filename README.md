@@ -1,21 +1,69 @@
-# Hi there, I'm Luca 👋
+<h1 align="center">Hi, I'm Luca 👋</h1>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <em>Full-stack developer building privacy-focused web products and practical tools.</em>
+</p>
 
-## About Me
-- 💻 I enjoy building web products and practical tools.
-- 🚀 I’m currently working on **Right2Privacy**.
-- 🌱 I’m always learning and improving my coding &  skills.
-- 🤝 I’m open to collaborating on interesting projects.
-
-## Tech I Use
-- **Languages:** Java, Javascript, Python, C
-- **Tools** Git, Docker, Linux, Jetbrains, PostgreSQL
-- **Frameworks:** React, JDBC
-
-
-## Connect With Me
-- (www.lucadev.at)
+<p align="center">
+  <a href="https://www.lucadev.at"><img src="https://img.shields.io/badge/Website-lucadev.at-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
 
 ---
-⭐ Thanks for stopping by!
+
+## 🧑‍💻 About Me
+
+```java
+public class Luca {
+    private final String location = "Austria 🇦🇹";
+    private final String[] focus  = {"Web Development", "Privacy", "Developer Tooling"};
+    private final String currentProject = "Right2Privacy";
+
+    public boolean openToCollaboration() {
+        return true; // interesting projects welcome
+    }
+}
+```
+
+- 🚀 **Currently building:** [Right2Privacy](https://github.com/YOUR_USERNAME/Right2Privacy) – *A tool designed to take away Consumers fear of lacking privacy*
+- 🤝 **Open to:** collaboration on web products and developer tools
+- 📫 **Reach me:** [lucadev.at](https://www.lucadev.at)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c" alt="Languages">
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="Frameworks">
+  <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=openjdk&logoColor=white" alt="JDBC">
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,idea,postgres" alt="Tools">
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lkohberg&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lkohberg&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by! ⭐ Feel free to open an issue or reach out.</em>
+</p>
