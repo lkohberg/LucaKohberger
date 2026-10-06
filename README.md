@@ -31,7 +31,7 @@ public class Luca {
 }
 ```
 
-- <img src="https://api.iconify.design/lucide:hammer.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Currently building:** [Right2Privacy](www.right2privacy.at), a tool designed to take away consumers' fear of lacking privacy, and [Celebra](www.celebra.at), Digital invitations Made Easy.
+- <img src="https://api.iconify.design/lucide:hammer.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Currently building:** [Right2Privacy](https://www.right2privacy.at), a tool designed to take away consumers' fear of lacking privacy, and [Celebra](https://www.celebra.at), Digital invitations Made Easy.
 - <img src="https://api.iconify.design/lucide:briefcase.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Open to work:** remote internships, working student positions, and junior developer roles
 - <img src="https://api.iconify.design/lucide:handshake.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Open to collaborate:** web products and open-source projects
 - <img src="https://api.iconify.design/lucide:mail.svg?color=%238b949e" width="16" height="16" align="absmiddle" alt="">&nbsp; **Reach me:** [lucadev.at](https://www.lucadev.at)
